@@ -10,6 +10,6 @@ An AutoHotkey script to enable usage of remote presentation clickers in backgrou
 Remote clickers worth by sending Page Up and Page Down or sometimes Left and Right keystrokes to PowerPoint. This AutoHotkey script intercepts those keys and sends them to the PowerPoint Presenter View Window. You can select which keys you would like to redirect. There is also a text box provided where you can type which screen videos appear on, this will bring PowerPoint back to the foreground (focus) for these slides which will allow the video to play, as it will not play in the background.
 
 ## Screenshot
-![ClickerOverrideGui Screenshot](screenshot.png)
+![Clicker-Redirect-Screenshot Screenshot](Screenshot.png)
 
 
